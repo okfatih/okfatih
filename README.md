@@ -5,7 +5,7 @@
 <img align="right" alt="WindMills" width ="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8LK45QEa2IN3fh1SyRRkcNFpHNClFXMkAw&usqp=CAU">
 
 
-- 🌱 I’m currently learning **DB testing**
+- 🌱 I’m currently learning **Appium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
