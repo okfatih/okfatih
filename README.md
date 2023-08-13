@@ -5,8 +5,9 @@
 ![Test Automation](https://global-uploads.webflow.com/619e15d781b21202de206fb5/6274f6716331597702331a77_Selenium-Testing-A-Comprehensive-Guide-HeadSpin-1280X720%20(1).jpg)
 
 Fatih, from Netherlands.
-Test Automation: I thrive in the realm of test automation! Designing and implementing automated test suites is my playground. I've utilized Java and Python to create streamlined test automation scripts and utility libraries, showcasing its capability to deliver dependable code.
-Java Enthusiast: Java is more than just a programming language to me—it's a tool for building powerful applications
+Test Automation: I thrive in the realm of test automation! Designing and implementing automated test suites is my playground. <br>
+I've utilized Java and Python to create streamlined test automation scripts and utility libraries, showcasing its capability to deliver dependable code.<br>
+Java Enthusiast: Java is more than just a programming language to me—it's a tool for building powerful applications<br>
 Exploring AWS Cloud: While I'm not an AWS cloud expert, I'm intrigued by its capabilities. I'm on a journey to learn more about deploying, managing, and optimizing cloud infrastructure using AWS services.
 
 Skills: Java /Selenium / JS / HTML / CSS/AWS/Azure
